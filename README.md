@@ -21,18 +21,18 @@ This is an enhanced version of the basic workshop system of mortgage process. Ma
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Raymond Djajalaksana | AX | Project Owner| E0385012@u.nus.edu |
+| Raymond Djajalaksana | A0195381X | Project Owner| E0385012@u.nus.edu |
 
 ---
 ## USER GUIDE AND HOW TO RUN
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/raycap/ISR-MR-KIE-Knowledge-Discovery/tree/master/ProjectReport/User%20Guide.pdf>
 
 
 ---
 ## PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/raycap/ISR-MR-KIE-Knowledge-Discovery/tree/master/ProjectReport/Project%20Report.pdf>
 
 ---
 ## MISCELLANEOUS
