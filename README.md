@@ -26,7 +26,7 @@ This is an enhanced version of the basic workshop system of mortgage process. Ma
 ---
 ## USER GUIDE AND HOW TO RUN
 
-`<Github File Link>` : <https://github.com/raycap/ISR-MR-KIE-Knowledge-Discovery/tree/master/ProjectReport/User%20Guide.pdf>
+`<Github File Link>` : <https://github.com/raycap/ISR-MR-KIE-Knowledge-Discovery/tree/master/UserGuide/User%20Guide.pdf>
 
 
 ---
