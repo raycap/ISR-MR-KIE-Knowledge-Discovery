@@ -24,7 +24,7 @@ This is an enhanced version of the basic workshop system of mortgage process. Ma
 | Raymond Djajalaksana | A0195381X | Project Owner| E0385012@u.nus.edu |
 
 ---
-## USER GUIDE AND HOW TO RUN
+## [IMPORTANT] USER GUIDE AND HOW TO RUN 
 
 `<Github File Link>` : <https://github.com/raycap/ISR-MR-KIE-Knowledge-Discovery/tree/master/UserGuide/User%20Guide.pdf>
 
