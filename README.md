@@ -14,7 +14,7 @@ This is an enhanced version of the basic workshop system of mortgage process. Ma
 1. Citizenship ID and its validation
 2. Enhanced Decision Tree Machine Reasoning approval based on knowledge discovery from more complicated data.
 3. Simple documents approval process
-4. Email Notification feature
+4. Email Notification feature (check on junk email/spam section rather than Inbox)
 
 ---
 ## CREDITS / PROJECT CONTRIBUTION
